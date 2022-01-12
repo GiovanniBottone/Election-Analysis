@@ -1,7 +1,7 @@
 # Election-Analysis
 
 ## Project Overview
-The purpose of this project was to complete the tasks listed below for a Colorado Board of Elections Employees. The tasks consisted of:
+A Colorade Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
