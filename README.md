@@ -1,7 +1,7 @@
 # Election-Analysis
 
 ## Overview of Election Audit:
-The purpose of this election audit analysis was to assist a Colorade Board of Elections employee with completing the below tasks for a recent local congressional election. 
+The purpose of this election audit analysis was to assist a Colorado Board of Elections employee with completing the below tasks for a recent local congressional election. 
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
